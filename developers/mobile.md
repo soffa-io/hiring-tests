@@ -47,5 +47,9 @@ Si aucune technologie ne vous a été imposée, les options sont les suivants:
 - [ ] Android
 - [ ] iOS
 
+**5. Librables**
+
+- Le lien vers le repo Github contenant le code source du projet
+- Une vidéo présentant l'application fonctionnelle
 
 
