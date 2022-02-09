@@ -39,7 +39,7 @@ L'objectif est donc :
 - Reproduire une UI (sans nécessairement activer la partie Recherche)
 - Avoir une navigation horizontale par catégories: Science, Business, Sports, Technology, Startup et Automobile
 
-**3. Technologies**
+**4. Technologies**
 
 Si aucune technologie ne vous a été imposée, les options sont les suivants:
 
