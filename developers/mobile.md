@@ -24,6 +24,19 @@ La phase d'authentification doit permettre de tester les deux scnéarios suivant
 
 ![](https://cdn.dribbble.com/users/1998175/screenshots/15193792/media/298264c1ce856398c313dde0398ba00c.jpg?compress=1&resize=1600x1200&vertical=top)
 
-Cette 3e phase consiste à reproduire (le mieux possible) l'écran ci-dessus en utilisant l'URL ci-après pour récupérer une liste de news.
+Cette 3e phase consiste à reproduire (le mieux possible) l'écran ci-dessus (Discover) en utilisant l'URL ci-après pour récupérer une liste de news.
 
-https://inshortsapi.vercel.app/news?category=science
+- Science: https://inshortsapi.vercel.app/news?category=science
+- Business: https://inshortsapi.vercel.app/news?category=business
+- Sports: https://inshortsapi.vercel.app/news?category=sports
+- Technology: https://inshortsapi.vercel.app/news?category=technology
+- Startup: https://inshortsapi.vercel.app/news?category=startup
+- Automobile: https://inshortsapi.vercel.app/news?category=automobile
+
+L'objectif est donc :
+
+- D'afficher une liste de news
+- Reproduire une UI (sans nécessairement activer la partie Recherche)
+- Avoir une navigation horizontale par catégories: Science, Business, Sports, Technology, Startup et Automobile
+
+
