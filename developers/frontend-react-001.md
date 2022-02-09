@@ -25,7 +25,7 @@ Il est important d'implémenter un système de pagination ou infinite scrolling.
 #### 3. Likes photos
 
 En bas de chaque photo, une icône doit permettre à l'utilisateur connecté de liker la photo.
-Si un utilisateur a déjà liké la photo, l'îcone doit clairement indiquer celà.
+Si un utilisateur a déjà liké la photo, l'îcone devrait clairement indiquer celà.
 
 
 #### 4. Contraintes
